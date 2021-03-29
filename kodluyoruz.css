@@ -1,0 +1,17 @@
+/*class -> .tex-red {}*/
+/* id -> #id-bilgisi {}*/
+
+.center {
+    text-align: center;
+    border: 3px solid green;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  .centerp {
+    text-align: center;
+    
+  }
